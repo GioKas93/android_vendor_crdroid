@@ -310,7 +310,6 @@
         <item>device_personalization_services/Echo__smartspace_enable_ridesharing_eta=true</item>
         <item>device_personalization_services/Echo__smartspace_enable_safety_check_predictor=true</item>
         <item>device_personalization_services/Echo__smartspace_enable_score_ranker=WEIGHTED</item>
-        <item>device_personalization_services/Echo__smartspace_enable_score_ranker=true</item>
         <item>device_personalization_services/Echo__smartspace_enable_sensitive_notification_twiddler=true</item>
         <item>device_personalization_services/Echo__smartspace_enable_step_predictor=true</item>
         <item>device_personalization_services/Echo__smartspace_enable_subcard_logging=true</item>
@@ -679,7 +678,7 @@
     <string name="config_rawContactsLocalAccountType" translatable="false">com.android.contacts</string>
 
     <!-- Name of the font family to use in the default lockscreen clock -->
-    <string name="config_clockFontFamily" translatable="false">google-sans-clock</string>
+    <string name="config_clockFontFamily" translatable="false">google-sans-flex-clock</string>
 
     <!-- Name of a font family to use for body text. -->
     <string name="config_bodyFontFamily" translatable="false">google-sans-text</string>
